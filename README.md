@@ -14,7 +14,6 @@
 ## 💻 About Me
 
 - 🔭 I'm currently building **web applications using ASP.NET Core**
-- 🌱 I'm expanding my skills in **Azure Cloud Services and Docker**
 - 💼 Strong experience in **Data Structures & Algorithms**
 - 🏆 Active in **Competitive Programming** on LeetCode and Codeforces
 - 📝 I'm passionate about clean architecture and writing maintainable code
@@ -29,7 +28,6 @@
 
 ### Tools & Methods
 - **Version Control:** Git, GitHub
-- **Project Management:** Agile methodology
 - **Problem Solving:** Data Structures, Algorithms, Design Patterns
 
 ## 📫 How to reach me
