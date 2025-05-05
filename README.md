@@ -11,39 +11,6 @@
   </a>
 </p>
 
-
-## 💻 About Me
-
-- 🔭 I'm currently building **web applications using ASP.NET Core**
-- 💼 Strong experience in **Data Structures & Algorithms**
-- 🏆 Active in **Competitive Programming** on LeetCode and Codeforces
-- 📝 I'm passionate about clean architecture and writing maintainable code
-
-## 🛠️ Tech Stack
-
-### Backend Development
-- **C#:** Advanced concepts, LINQ, Generics, Async Programming
-- **.NET Core:** MVC, Web API, Dependency Injection
-- **Entity Framework Core:** Code-First, Database-First, Migrations
-- **SQL Server:** Complex queries, Stored Procedures, Optimization
-
-### Tools & Methods
-- **Version Control:** Git, GitHub
-- **Problem Solving:** Data Structures, Algorithms, Design Patterns
-
-<h1 align="center">Hi 👋, I'm Eslam Abdelwahid</h1>
-<h3 align="center">Full-Stack .NET Developer | Computer Science Student | Algorithms Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslamabdelwahid&label=Profile%20views&color=0e75b6&style=flat" alt="eslamabdelwahid" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eslamabdelwahid&theme=onedark" alt="eslamabdelwahid" />
-  </a>
-</p>
-
 ## 💻 About Me
 
 - 🔭 I'm currently building **web applications using ASP.NET Core**
